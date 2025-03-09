@@ -387,3 +387,5 @@ ASALocalRun/
 *.bmp
 *.png
 *.bak
+
+/out/**
