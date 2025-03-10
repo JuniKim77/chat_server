@@ -1,0 +1,4 @@
+set (DEV_PATH ${CMAKE_CURRENT_DIR}/../../Dev)
+get_filename_component(DEV_PATH ${DEV_PATH} ABSOLUTE)
+
+set (CMAKE_RUNTIME_OUTPUT_DIRECTORY ${DEV_PATH})
